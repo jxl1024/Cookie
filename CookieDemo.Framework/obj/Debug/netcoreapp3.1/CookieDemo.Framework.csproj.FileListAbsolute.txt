@@ -1,0 +1,7 @@
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\bin\Debug\netcoreapp3.1\CookieDemo.Framework.deps.json
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\bin\Debug\netcoreapp3.1\CookieDemo.Framework.dll
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\obj\Debug\netcoreapp3.1\CookieDemo.Framework.AssemblyInfoInputs.cache
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\obj\Debug\netcoreapp3.1\CookieDemo.Framework.AssemblyInfo.cs
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\bin\Debug\netcoreapp3.1\CookieDemo.Framework.pdb
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\obj\Debug\netcoreapp3.1\CookieDemo.Framework.dll
+D:\Practice\Core\CookieDemo\CookieDemo.Framework\obj\Debug\netcoreapp3.1\CookieDemo.Framework.pdb
